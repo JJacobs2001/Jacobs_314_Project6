@@ -1,0 +1,11 @@
+﻿approach_1,approach_2,approach_3,most_impact,mother_status,age,gender,occupation
+3,2,9,Approach 3,Yes,35,Female,Teacher
+5,6,8,Approach 1,No,21,Male,Student
+7,3,6,Approach 3,Yes,42,Female,Life-nurturer
+2,8,6,Approach 2,Yes,21,Non-binary,Desk job
+4,4,7,Approach 1,No,20,Male,Lab Researcher
+9,9,4,Approach 3,No,20,Female,Graphic Designer
+3,7,8,Approach 1,No,22,,Student
+5,5,7,Approach 1,No,21,Female,Student
+5,6,8,Approach 1,Yes,32,Female,Social Worker
+6,6,7,Approach 2,No,27,Male,Bartender
